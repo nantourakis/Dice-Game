@@ -2,7 +2,7 @@
 
 https://nantourakis.github.io/Dice-Game/.
 
-LEt's play Pig!
+Let's play Pig!
 
 This dice game showcases DOM manipulation using Javascript.
 
